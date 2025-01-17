@@ -26,6 +26,7 @@ An example of using @Angular/Fire
 
 * [Angular Fire QuickStart on GitHub](https://github.com/angular/angularfire/blob/HEAD/docs/install-and-setup.md)
 * [Angular Material](https://material.angular.io/)
+* [Cloud Firestore](https://firebase.google.com/docs/firestore/)
 
 
 ## How This Was Generated
