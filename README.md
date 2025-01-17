@@ -10,7 +10,7 @@ An example of using @Angular/Fire
 | Angular/Material |   19.0.6 |
 | node             |  22.12.0 |
 | npm              |   11.0.0 |
-| WebStorm         | 2024.3.1 |
+| WebStorm         | 2024.3.2 |
 | VSCode           |   1.96.4 |
 
 
