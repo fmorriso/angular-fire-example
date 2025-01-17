@@ -7,7 +7,7 @@ An example of using @Angular/Fire
 |:-----------------|---------:|
 | @Angular/CLI     |   19.1.1 |
 | Angular          |   19.1.1 |
-| Angular/Material |   19.0.6 |
+| Angular/Material |   19.1.0 |
 | node             |  22.12.0 |
 | npm              |   11.0.0 |
 | WebStorm         | 2024.3.2 |
@@ -22,7 +22,12 @@ An example of using @Angular/Fire
 
 
 ## References
+
+
 * [Angular Fire QuickStart on GitHub](https://github.com/angular/angularfire/blob/HEAD/docs/install-and-setup.md)
+* [Angular Material](https://material.angular.io/)
+
+
 ## How This Was Generated
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.1.
 
