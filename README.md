@@ -1,5 +1,29 @@
-# AngularFireExample
+# Angular Fire Example
+An example of using @Angular/Fire
 
+## Tools Used
+
+| Tool             |  Version |
+|:-----------------|---------:|
+| @Angular/CLI     |   19.1.1 |
+| Angular          |   19.1.1 |
+| Angular/Material |   19.0.6 |
+| node             |  22.12.0 |
+| npm              |   11.0.0 |
+| WebStorm         | 2024.3.1 |
+| VSCode           |   1.96.4 |
+
+
+## Change History
+
+| Date       | Description                                   |
+|:-----------|:----------------------------------------------|
+| 2025-01-08 | Initial creation                              |
+
+
+## References
+* [Angular Fire QuickStart on GitHub](https://github.com/angular/angularfire/blob/HEAD/docs/install-and-setup.md)
+## How This Was Generated
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.1.
 
 ## Development server
