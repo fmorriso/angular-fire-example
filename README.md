@@ -5,7 +5,7 @@ An example of using @Angular/Fire
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     |   19.1.1 |
+| @Angular/CLI     |   19.1.2 |
 | Angular          |   19.1.1 |
 | Angular/Material |   19.1.0 |
 | node             |  22.12.0 |
@@ -16,9 +16,10 @@ An example of using @Angular/Fire
 
 ## Change History
 
-| Date       | Description                                   |
-|:-----------|:----------------------------------------------|
-| 2025-01-08 | Initial creation                              |
+| Date       | Description                   |
+|:-----------|:------------------------------|
+| 2025-01-08 | Initial creation              |
+| 2025-01-19 | update to @angular/cli 19.1.2 |
 
 
 ## References
